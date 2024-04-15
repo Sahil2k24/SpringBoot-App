@@ -9,7 +9,7 @@ pipeline {
         stage('FETCHING CODE') {
             steps {
                 // Checkout code from GitHub using personal access token
-                git branch: 'QA', url: 'https://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@github.com/KartikNikhadeBrighLink/PractiveSpringBoot.git'
+                git branch: 'QA', url: 'https://github.com/Sahil2k24/SpringBoot-App.git'
             }
         }
 
