@@ -1,4 +1,4 @@
-In our project, we've implemented a cohesive development pipeline using Jenkins, Docker, and SonarQube to automate our build and deployment processes. This streamlined pipeline consists of several key stages:
+In this project, I've implemented a cohesive development pipeline using Jenkins, Docker, and SonarQube to automate our build and deployment processes. This streamlined pipeline consists of several key stages:
 
 1. **Code Fetching and Version Control**: The pipeline initiates in Jenkins, where it retrieves the latest code changes from our Git repository. This ensures that our team always works with the most recent codebase version.
 
